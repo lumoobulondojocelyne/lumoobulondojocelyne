@@ -1,0 +1,244 @@
+body{
+    background-color: rgb(250, 218, 158);
+}
+.tete{
+    background-color: whitesmoke;
+    width: 1305px;
+    height: 80px;
+}
+header .tete nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 25px;  
+}
+
+header .tete nav ul li a{
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    font-family: sans-serif;  
+}
+
+.lien{
+    text-align: center;
+}
+.lien a{
+  text-decoration: none;
+  font-size: 18px;
+  border: 1px solid orangered;
+  background-color: orangered;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+#intro{
+    background-image: url("Images/classe.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1305px;
+    height: 400px;
+    margin-top: -50px;
+}
+
+.contenu{
+    font-size: 50px;
+    margin-left: 70px;
+   color: rgb(255, 22, 22);
+   text-align: center;  
+}
+.conte a{
+    font-size: 50px;
+    margin-left: 70px;
+   color: rgb(241, 8, 8);
+   text-align: end;
+   
+}
+#footer{
+    width: 1305px;
+    height: 200px;
+    margin-top: -20px;
+background-color: whitesmoke;
+
+}
+
+.titre1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.titre2{
+    margin-top: -99px;
+    margin-left: 250px;  
+}
+.titre3{
+    margin-top: -140px;
+    margin-left: 450px;  
+}
+.titre4{
+    margin-top: -90px;
+    margin-left: 590px;  
+}
+.titre5{
+    margin-top: -140px;
+    margin-left: 850px;  
+}
+.bouton{
+    font-size: 20px;
+    margin-top: 250px;
+    margin-left: -900px;
+    border-bottom: rgb(241, 8, 8);
+
+}
+.entete1{
+    background-color: rgb(168, 186, 202);
+    width: 1305px;
+    height: 60px;
+    margin-top:-21px;
+    color: blue;
+    text-align: center;
+
+}
+.menu1{
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.text1{
+   
+   margin-left: 600px;
+   margin-top: -375px;
+    
+}
+.menu2{
+    margin-top: 25px;
+    margin-left: 78px;
+}
+.text2{
+   
+   margin-left: 600px;
+   margin-top: -374px;
+    
+}
+.menu3{
+    margin-top: 25px;
+    margin-left: 78px;
+}
+.text3{
+   
+   margin-left: 600px;
+   margin-top: -374px;
+    
+}
+.menu4{
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.text4{
+   
+   margin-left: 600px;
+   margin-top: -375px;
+    
+}
+.menu5{
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.text5{
+   
+   margin-left: 600px;
+   margin-top: -375px;
+    
+}
+.menuA{
+    margin-left: 79px;
+}
+.menuB{
+    margin-left: 300px;
+    margin-top: -154px;
+}
+.menuC{
+    margin-left: 520px;
+    margin-top: -154px;
+}
+.menuD{
+    margin-left: 740px;
+    margin-top: -154px;
+}
+.menuE{
+    margin-left: 960px;
+    margin-top: -154px;
+}
+#footer{
+    width: 1305px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 10px;
+background-color: whitesmoke;
+
+}
+
+.titre1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.titre2{
+    margin-top: -99px;
+    margin-left: 250px;  
+}
+.titre3{
+    margin-top: -140px;
+    margin-left: 450px;  
+}
+.titre4{
+    margin-top: -90px;
+    margin-left: 590px;  
+}
+.titre5{
+    margin-top: -140px;
+    margin-left: 850px;  
+}
+#entete{
+    background-color: rgb(168, 186, 202);
+    width: 1305px;
+    height: 60px;
+    margin-top:-21px;
+    color: blue;
+    text-align: center;  
+}
+.lab{
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 100px;
+    height: 39px;
+}
+
+.newletter{
+    padding:  40px;
+    text-align: center;
+}
+.newletter input{
+    width: 440px;
+    height: 30px;
+    border-radius: 4px;
+    outline-color: none;
+}
+.newletter .libelle{
+    margin-left: -380px;
+    font-family: sans-serif;
+
+}
+.newletter .btn{
+    width: 100px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    border-radius: 2px;
+
+}

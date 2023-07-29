@@ -1,0 +1,166 @@
+body{
+    background-color: rgb(252, 206, 150);
+}
+#entete{
+    background-color: rgb(168, 186, 202);
+    width: 1305px;
+    height: 60px;
+    margin-top:51px;
+    color: blue;
+}
+.tete{
+    background-color: whitesmoke;
+    width: 1305px;
+    height: 80px;
+}
+header .tete nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 25px;  
+}
+
+header .tete nav ul li a{
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    font-family: sans-serif;  
+}
+h1{
+    margin-left: 450px;
+    margin-top: -50px;
+}
+.lab{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+#menu1{
+    margin-top: 6px;
+    margin-left: 280px;
+}
+.menu2{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.menu3{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+.menu4{
+    margin-left: 280px;
+    margin-top: 6px;
+}
+
+.menu5{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.menu6{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+.menu7{
+    margin-top: 6px;
+    margin-left: 280px;
+}
+.menu8{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.menu9{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+.menu10{
+    margin-top: 6px;
+    margin-left: 280px;
+}
+.menu11{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.menu12{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+
+.menu13{
+    margin-top: 6px;
+    margin-left: 280px;
+}
+.menu14{
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.menu15{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+
+
+
+.logo{
+    margin-left: 20px;
+}
+#Vtete{
+    background-color: rgb(199, 222, 135);
+    width: 1305px;
+    height: 40px;
+}
+.logo2{
+    margin-left: 20px;
+}
+Menu{
+    margin-left: 500px;
+}
+#footer{
+    width: 1305px;
+    height: 200px;
+   
+background-color: whitesmoke;
+
+}
+
+.titre1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.titre2{
+    margin-top: -99px;
+    margin-left: 250px;  
+}
+.titre3{
+    margin-top: -140px;
+    margin-left: 450px;  
+}
+.titre4{
+    margin-top: -90px;
+    margin-left: 590px;  
+}
+.titre5{
+    margin-top: -140px;
+    margin-left: 850px;  
+}
+#menu01{
+    margin-top: 6px;
+    margin-left: 680px;
+}
+.text1{
+    margin-left: -600px;
+    margin-top: -270px;
+}
+.text2{
+    margin-left: -500px;
+    margin-top: 188px;
+}
+#menu02{
+    margin-left: -400px;
+    margin-top: 60px;
+}
+#footer1{
+    background-color: aliceblue;
+    width: 1305px;
+    height: 200px;
+margin-left: -670px;
+}
